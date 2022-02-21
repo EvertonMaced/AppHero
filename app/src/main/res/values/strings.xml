@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App Hero</string>
+
+    <array name="teams">
+
+        <item>avengers</item>
+        <item>x-men</item>
+        <item>Justice</item>
+        <item>DC</item>
+
+    </array>
+</resources>
